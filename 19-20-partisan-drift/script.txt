@@ -1,0 +1,81 @@
+*ABSTRACT LOGO FADES IN, THEN OUT*
+*VIDEO OF PRODUCT DEMO PLAYS*
+
+
+Narrator: 
+  Hey there, I'm Mo (or Mohammed), CTO & Co-Founder at Abstract. While working with my team to build a robust, reliable product that allows
+government affairs experts in California to do their job in a modern, collaborative setting, we've come across a lot of very interesting insights
+in the data that we've collected that truly allow us to read between the aisles, data that we think you should be able to learn about to not only
+understand the workings of the system that governs our daily lives, but also to make you a more informed californian overall.
+
+This is the first video of a series where we'll be diving deep into how our legislature functions, and what kinds of patterns and trends we overlook until
+we re-imagine how data that we work with on a daily basis is displayed, and understood. Without further adue, let's get right into it.
+
+*PRODUCT DEMO FADES OUT*
+*FOOTAGE OF VOTE PASSING IN CA LEGISLATURE, AUDIO FADES OUT*
+
+  if you've been keeping an eye on the California Legislature recently, you might've either heard or seen a lot of this.
+but, what only a few are able to recognize is how the dynamics between each legislator play out with each vote, and what sort of
+insights we can pull out about the relationships between each party here.
+
+  Let's start by pointing out the obvious, there's a reason Californians rarely get phone calls from automated polls around election season,
+and that's because since 1992, California has been a super blue state. This is where most people draw the line, but what struck our curiosity here at Abstract was
+when this shift began occuring, and what direction this partisan divide is headed in. 
+
+*FOOTAGE OF VOTE BOARDS IN CA LEIGSLATURE*
+
+After scouring our databases for endless hours, what we were able to find out
+is that the votes that occur in each session, one of which you just saw, can actually tell us a lot about the lines drawn between and within each party,
+and how those lines are changing over time.
+
+*FADE TO BLACK*
+
+  Before we head into the findings, we'll need to understand how they are displayed. It all starts with a table.
+
+*TABLE TEMPLATE DRAWN ON SCREEN*
+
+  say we're looking at the overlaps in vote stances between three senators, Senator X, Senator Y, and Senator Z.
+
+*ROW/COLUMN TABLES POPULATE WITH SENATOR NAMES*
+
+  in a single legislative session, each senator voted on 100 bills. On this table, we can visualize it as such, since you can't really oppose youself in a single vote.
+
+*100s FILL IN DIAGONAL OF TABLE*
+
+  Now, say that among these 100 bills, Senators X and Y voted similarly on 50 of those bills, Senators Y and Z voted similarly on 10 of those bills,
+  finally, Senators X and Z voted similarly on 20 bills. These can be envisioned on our table like this
+
+*SAMPLE DATA FILLS TABLE*
+
+  There are many ways we can interpret this table, but let's simplify it even further, we'll try to get away from numbers as much as possible here.
+
+*TABLE FADES OUT, NODES FOR EACH SENATOR APPEAR*
+
+  here are the senators we just saw on that table, senators X, Y, and Z.
+
+*EACH NODE CHANGES COLOR AS THEY ARE BEING CALLED OUT*
+
+  let's assume that senators that voted together 100 times can be linked with a line like this. that hasn't happened though, so we'll get rid of it.
+
+*THICK LINE APPEARS, THEN DISAPPEARS*
+  we do have senators X and Y voting together 50 times though, so we'll represent it with a slightly thinner line.
+
+*LINE BETWEEN X AND Y APPEARS*
+
+  using that same logic, we're able to map out the rest of the figures we saw on the table like so
+
+*REST OF LINES APPEAR*
+
+  much better, right? we can clearly see and understand the voting dynamics between each senator in this leigslative session.
+  Now, let's spice it up a little...
+
+*SENTORS X AND Y TURN BLUE, SENATOR Z TURNS RED*
+
+  if we revealed to you that senators X and Y were democrats, and Z republican, you'd start to see the partisan divide in your legislature, meaning bipartisan
+  efforts might be difficult to come by, and agendas backed by one side will have to fight an uphill battle to end up on the governor's desk.
+
+  now that we know what how to make sense of this data, let's look at the real deal...
+
+*REX GRAPHIC*
+
+  ....

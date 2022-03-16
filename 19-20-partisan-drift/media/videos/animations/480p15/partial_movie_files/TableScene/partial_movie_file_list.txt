@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/mohayat/projects/ADIP/19-20-partisan-drift/media/videos/animations/480p15/partial_movie_files/TableScene/3163782288_2408745116_223132457.mp4'
+file 'file:/Users/mohayat/projects/ADIP/19-20-partisan-drift/media/videos/animations/480p15/partial_movie_files/TableScene/2201830969_3566956883_647599110.mp4'
+file 'file:/Users/mohayat/projects/ADIP/19-20-partisan-drift/media/videos/animations/480p15/partial_movie_files/TableScene/2201830969_2385098238_296009229.mp4'
+file 'file:/Users/mohayat/projects/ADIP/19-20-partisan-drift/media/videos/animations/480p15/partial_movie_files/TableScene/2201830969_2471300832_682325342.mp4'
+file 'file:/Users/mohayat/projects/ADIP/19-20-partisan-drift/media/videos/animations/480p15/partial_movie_files/TableScene/2201830969_2850498469_3767463291.mp4'
+file 'file:/Users/mohayat/projects/ADIP/19-20-partisan-drift/media/videos/animations/480p15/partial_movie_files/TableScene/2201830969_2471300832_1398248116.mp4'
+file 'file:/Users/mohayat/projects/ADIP/19-20-partisan-drift/media/videos/animations/480p15/partial_movie_files/TableScene/2201830969_3393205628_3165074072.mp4'

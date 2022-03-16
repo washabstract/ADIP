@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/mohayat/projects/ADIP/introduction/media/videos/graphics_script/480p15/partial_movie_files/FadeInRotate/3163782288_1547220603_223132457.mp4'
+file 'file:/Users/mohayat/projects/ADIP/introduction/media/videos/graphics_script/480p15/partial_movie_files/FadeInRotate/2201830969_2471300832_3218865651.mp4'
+file 'file:/Users/mohayat/projects/ADIP/introduction/media/videos/graphics_script/480p15/partial_movie_files/FadeInRotate/2201830969_2270416231_2271736378.mp4'
